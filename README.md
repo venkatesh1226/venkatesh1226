@@ -9,9 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/venkatesh1226](https://github.com/venkatesh1226)
 
-- 💬 Ask me about **java, kotlin, Android**
+- 💬 Ask me about **Java, Kotlin, Android**
 
 - 📫 How to reach me **venkatesh1226m@gmail.com**
+
+- 🎯 Motto - **Start From Nothing Stop For Nothing**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
