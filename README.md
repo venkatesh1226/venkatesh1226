@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesh1226" alt="venkatesh1226" /> </p>
 
-- 🔭 I’m currently working on [Fancy Food](https://github.com/venkatesh1226/FancyFood)
+- 🔭 I’m currently working on my personal projects 🙂.
 
 - 🌱 I’m currently learning **Firebase**
 
