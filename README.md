@@ -24,7 +24,7 @@
 - 🎯 Motto - **Start From Nothing Stop For Nothing**
 
 <p align="left"> 
- < p align="left">
+ <p align="left">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
  **Connect with me:**</p>
 <a href="https://linkedin.com/in/venkatesh makkena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="venkatesh makkena" height="30" width="40" /></a>
