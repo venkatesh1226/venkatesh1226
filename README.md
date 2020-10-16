@@ -24,9 +24,9 @@
 - 🎯 Motto - **Start From Nothing Stop For Nothing**
 
 <p align="left"> 
- < h3 align="left">
+ < p align="left">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
-  Connect with me:</h3>
+ **Connect with me:**</p>
 <a href="https://linkedin.com/in/venkatesh makkena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="venkatesh makkena" height="30" width="40" /></a>
 <a href="https://instagram.com/_.venky_venkatesh_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.venky_venkatesh_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/venkatesh1226m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="venkatesh1226m" height="30" width="40" /></a>
