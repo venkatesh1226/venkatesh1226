@@ -40,5 +40,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh1226&show_icons=true&theme=radical"/>
   <img src="https://github.com/venkatesh1226/github-readme-stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatesh1226&show_icons=true&theme=radical"/>
+  </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=venkatesh1226&show_icons=true&theme=radical"/>
 </p>
