@@ -1,5 +1,5 @@
 <h1 align ="center">
- **👋 Hello World !**  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+ 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   </h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/RoyalEagle73/RoyalEagle73/master/coding-freak.gif">
