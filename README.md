@@ -2,7 +2,9 @@
  👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   </h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RoyalEagle73/RoyalEagle73/master/coding-freak.gif">
+  <img src="https://user-images.githubusercontent.com/51997864/105814565-9bb6fc00-5fd7-11eb-8a64-d18cbb05f0eb.gif
+
+">
 </p>
 
   
@@ -28,7 +30,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
  Connect with me:</h3>
 <a href="https://www.linkedin.com/in/venkatesh-makkena-158947189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="venkatesh makkena" height="30" width="40" /></a>
-<a href="https://instagram.com/_.venky_venkatesh_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.venky_venkatesh_" height="30" width="40" /></a>
+<a href="https://instagram.com/_.venky_venkatesh_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="venky._.venkatesh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/venkatesh1226m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="venkatesh1226m" height="30" width="40" /></a>
 </p>
 
