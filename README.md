@@ -2,9 +2,9 @@
  👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   </h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51997864/105814565-9bb6fc00-5fd7-11eb-8a64-d18cbb05f0eb.gif
+  <img src="https://user-images.githubusercontent.com/51997864/105814565-9bb6fc00-5fd7-11eb-8a64-d18cbb05f0eb.gif"/>
 
-">
+
 </p>
 
   
