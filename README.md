@@ -29,7 +29,7 @@
  <h3 align="left">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
  Connect with me:</h3>
-<a href="https://www.linkedin.com/in/venkatesh-makkena" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="venkatesh makkena" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/venkatesh-makkena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="venkatesh makkena" height="30" width="40" /></a>
 <!--<a href="https://instagram.com/_.venky_venkatesh_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="venky._.venkatesh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/venkatesh1226m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="venkatesh1226m" height="30" width="40" /></a>-->
 </p>
