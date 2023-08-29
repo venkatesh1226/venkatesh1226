@@ -9,7 +9,7 @@
 
   
 <h1 align="center">Hi 👋, I'm Venkatesh</h1>
-<h3 align="center">A passionate Android App developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesh1226" alt="venkatesh1226" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/venkatesh1226](https://github.com/venkatesh1226)
 
-- 💬 Ask me about **Java, Kotlin, Android**
+- 💬 Ask me about **Java, Kotlin, Android, JavaScript, Angular, React**
 
 - 📫 How to reach me **venkatesh1226m@gmail.com**
 
