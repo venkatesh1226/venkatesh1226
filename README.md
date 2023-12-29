@@ -23,7 +23,6 @@
 
 - 📫 How to reach me **venkatesh1226m@gmail.com**
 
-- 🎯 Motto - **Start From Nothing Stop For Nothing**
 
 <p align="left"> 
  <h3 align="left">
