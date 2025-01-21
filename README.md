@@ -15,11 +15,11 @@
 
 - 🔭 I’m currently working on my personal projects .
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently exploring **Gen AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/venkatesh1226](https://github.com/venkatesh1226)
 
-- 💬 Ask me about **Java, Kotlin, Android, JavaScript, Angular, React**
+- 💬 Ask me about **Java, Spring boot, Python, Django, Azure, AWS, Typescript, Kotlin, Android, JavaScript, Angular, React, GenAI**
 
 - 📫 How to reach me **venkatesh1226m@gmail.com**
 
